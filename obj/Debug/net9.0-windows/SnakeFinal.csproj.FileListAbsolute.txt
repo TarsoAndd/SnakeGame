@@ -1,0 +1,16 @@
+C:\Users\tarso.andrade\source\repos\SnakeFinal\bin\Debug\net9.0-windows\SnakeFinal.exe
+C:\Users\tarso.andrade\source\repos\SnakeFinal\bin\Debug\net9.0-windows\SnakeFinal.deps.json
+C:\Users\tarso.andrade\source\repos\SnakeFinal\bin\Debug\net9.0-windows\SnakeFinal.runtimeconfig.json
+C:\Users\tarso.andrade\source\repos\SnakeFinal\bin\Debug\net9.0-windows\SnakeFinal.dll
+C:\Users\tarso.andrade\source\repos\SnakeFinal\bin\Debug\net9.0-windows\SnakeFinal.pdb
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.Form1.resources
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.csproj.GenerateResource.cache
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.AssemblyInfoInputs.cache
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.AssemblyInfo.cs
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.csproj.CoreCompileInputs.cache
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.dll
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\refint\SnakeFinal.dll
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.pdb
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\SnakeFinal.genruntimeconfig.cache
+C:\Users\tarso.andrade\source\repos\SnakeFinal\obj\Debug\net9.0-windows\ref\SnakeFinal.dll
